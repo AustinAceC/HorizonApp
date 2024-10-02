@@ -1,0 +1,6 @@
+#how to commit and push changes
+
+git add .
+git commit -m "implement: ...."
+git push
+
